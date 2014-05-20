@@ -33,7 +33,8 @@ public class Squadra {
 	
 	
 	public Squadra(){}
-
+	
+	//MAX
 
 	public Squadra(String nome, String colori_sociali) {
 		this.nome = nome;
